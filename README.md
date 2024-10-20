@@ -1,4 +1,4 @@
-# Real time chat and speak app
+# Real time chat and talk app
 
 Inspired from Discord app. But this is very simple project to explore streaming functions(sockets and audio streaming)
 <br>
@@ -8,7 +8,7 @@ Inspired from Discord app. But this is very simple project to explore streaming 
 # Features
 
 - Real time chat
-- Real time speak
+- Real time talk
 
 <p align="center">
   <img alt="Preview image" src="./previews/discord.png">
